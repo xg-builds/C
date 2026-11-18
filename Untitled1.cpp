@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-	printf("==============\n");
-	printf("hello world\n");
-	printf("==============\n");
+	printf("*************\n");
+	printf("My name is huanghanxiong\n");
+	printf("**************\n");
 	return 0;
 }
